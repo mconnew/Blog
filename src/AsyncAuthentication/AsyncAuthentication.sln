@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAuthentication", "AsyncAuthentication\AsyncAuthentication.csproj", "{499F979B-C68F-4E5E-A6D8-C0B17BD3BC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAuthenticationTest", "AsyncAuthenticationTest\AsyncAuthenticationTest.csproj", "{BD3AEB7D-1481-4038-ADE0-519F44245BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499F979B-C68F-4E5E-A6D8-C0B17BD3BC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499F979B-C68F-4E5E-A6D8-C0B17BD3BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499F979B-C68F-4E5E-A6D8-C0B17BD3BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499F979B-C68F-4E5E-A6D8-C0B17BD3BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3AEB7D-1481-4038-ADE0-519F44245BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3AEB7D-1481-4038-ADE0-519F44245BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3AEB7D-1481-4038-ADE0-519F44245BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3AEB7D-1481-4038-ADE0-519F44245BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
